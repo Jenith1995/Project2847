@@ -9,6 +9,11 @@ public class GitPushPull {
 		char charAt = s1.charAt(2);
 		String concat = s1.concat(s2);
 		System.out.println(concat);
+		int length = s1.length();
+		System.out.println(length);
+		boolean contains = s1.contains("E");
+		System.out.println(s1);
+
 	}
 
 }
